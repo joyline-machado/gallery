@@ -1,0 +1,51 @@
+.container {
+    width: 100%;
+    height: 100%;
+
+
+}
+
+.title {
+    text-align: center;
+    z-index: 1;
+    margin-top: 3%;
+    position: relative;
+    color: #fff;
+    font-size: 4rem;
+    -webkit-text-stroke: 1px #000000;
+    text-transform: uppercase;
+    font-family: sans-serif;
+
+}
+
+.image1 {
+    text-align: center;
+    margin-top: 15%;
+    margin-left: 35%;
+    width: 400px;
+    border: 10px solid #fff;
+
+}
+
+.image2 {
+    text-align: center;
+    position: absolute;
+    z-index: 1;
+    margin-left: -36%;
+    margin-top: 4%;
+    transform: rotate(-26deg);
+    width: 400px;
+    border: 10px solid #fff;
+}
+
+.image3 {
+    text-align: center;
+    position: absolute;
+    z-index: 1;
+    margin-left: -25%;
+    margin-top: 10%;
+    transform: rotate(-15deg);
+    width: 400px;
+    border: 10px solid #fff;
+    
+}
